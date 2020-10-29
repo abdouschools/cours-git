@@ -1,0 +1,4 @@
+<?php
+
+$abdou= "abdou"
+?>
